@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-tutorial",
+  "version": "1.0.0",
+  "description": "leetcode教程代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "babel-jest": "^28.1.0"
+  }
+}
